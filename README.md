@@ -2,6 +2,20 @@
 - This project was made using the repo [privateGPT](https://github.com/imartinez/privateGPT?tab=readme-ov-file). 
 We have integrated web scrapping for your gmails using a script that you can log into.
 
+## References
+
+Our work uses the following software:
+
+- PrivateGPT: 
+@software{Martinez_Toro_PrivateGPT_2023,
+author = {Martínez Toro, Iván and Gallego Vico, Daniel and Orgaz, Pablo},
+license = {Apache-2.0},
+month = may,
+title = {{PrivateGPT}},
+url = {https://github.com/imartinez/privateGPT},
+year = {2023}
+}
+
 ## How to use it?
   ### First time Setup:
   ```sh
