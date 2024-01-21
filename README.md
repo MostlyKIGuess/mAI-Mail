@@ -2,6 +2,9 @@
 - This project was made using the repo [privateGPT](https://github.com/imartinez/privateGPT?tab=readme-ov-file). 
 We have integrated web scrapping for your gmails using a script that you can log into.
 
+
+ - Credits to [Salvik](https://github.com/Salvik-Krishna),[Ami](https://github.com/AmiBuch),[Mrudani](https://github.com/MrudaniPimpalkhare),[Vignesh](https://github.com/wig-nesh) for working on this.
+
 ## References
 
 Our work uses the following software:
@@ -94,4 +97,5 @@ To use this web scrapper, you need a `credentials.json` file for authenticating 
 
  ## PS
  - My sincere thanks to my teammates and the people who made the privateGPT repo, this is not my work and I do not take credits for it, some changes are made sure but that's all the thanks due to my teammates who have given many ideas and made this beautiful application which I will use (~~for DSA ASSIGNMENT~~)(I do not promote using AI , you will get MOSSED, do not use AI plsss, I code in nvim so this is not an option but I m jus saying uk).
- - Credits to Salvik,Ami,Mrudani,Vignesh for working on this.
+
+- Thanks to my friends as well. :)
