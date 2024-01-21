@@ -5,7 +5,7 @@ We have integrated web scrapping for your gmails using a script that you can log
 ## How to use it?
   ### First time Setup:
   ```sh
-  git clone https://github.com/MostlyKIGuess/mAI-Mail.git && cd privateGPT && \
+  git clone https://github.com/MostlyKIGuess/mAI-Mail.git && cd mAI-Mail && \
   python3.11 -m venv .venv && source .venv/bin/activate && \
   pip install --upgrade pip poetry && poetry install --with ui,local && ./scripts/setup
 
