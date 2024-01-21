@@ -1,0 +1,43 @@
+
+
+
+
+
+S24CS1.201 »
+
+Forums » 
+Announcements » 
+Assignment 1 
+
+
+
+SS
+
+
+Re: Assignment 1 
+by 
+Sajiv Singh - Sunday, 21 January 2024, 10:17 AM 
+
+
+
+&nbsp; 
+
+Do the names of our elements of the data-structures be exactly the same as the ones given in the assignment sheet? For example, if the elements of the post ADT are named &quot;username&quot;, &quot;caption&quot; and
+&quot;comments&quot; instead of &quot;Username&quot;, &quot;Caption&quot; and &quot;Comments&quot; is it fine?
+Show parent
+| 
+Reply 
+See this post in context
+
+
+
+
+
+
+Change your forum digest preferences
+
+You can reply to this via email.
+Are you reading this in an email? 
+Download the mobile app and receive notifications on your mobile device.
+
+
