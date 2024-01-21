@@ -15,6 +15,11 @@ title = {{PrivateGPT}},
 url = {https://github.com/imartinez/privateGPT},
 year = {2023}
 }
+## Use cases and Featuers:
+- Can easily understand Acedamic PDFs.
+- Added the New TimeTable with Tut, can INSTANTLY answer when and where is your Tut/Class.
+- Can read your mails and give you new information about the events that are going on and you can decide on yourself if you want to join or not.
+- Can talk in normal LLM mode + Query mode + Search on the Docs. (this is the feature of the original repo)
 
 ## How to use it?
   ### First time Setup:
