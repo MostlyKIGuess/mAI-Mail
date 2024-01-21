@@ -8,6 +8,10 @@ We have integrated web scrapping for your gmails using a script that you can log
 ### Team Chipi Chapa Dubi Daba 
 ![](chipi-chipi-chipi.gif)
 
+
+## Model Data 
+![](datamodel.png)
+
 ## References
 
 Our work uses the following software:
