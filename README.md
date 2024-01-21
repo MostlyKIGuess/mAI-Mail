@@ -11,6 +11,7 @@ We have integrated web scrapping for your gmails using a script that you can log
 
 ## Model Data 
 ![](datamodel.png)
+- Here time is in seconds..
 
 ## References
 
