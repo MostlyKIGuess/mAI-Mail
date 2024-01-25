@@ -1,15 +1,15 @@
 #!/bin/bash
 
 
-if [ -f "thread.txt" ]; then
+if [ -f "threads.txt" ]; then
 
-    if [ -d "../../data/" ]; then
+    if [ -d "data/" ]; then
 
-        cp thread.txt ../../data/
+        cp threads.txt data/
         echo "thread.txt has been copied to ../../data/"
     else
-        echo "Directory ../../data/ does not exist."
+        echo "Directory data/ does not exist."
     fi
 else
-    echo "File thread.txt does not exist."
+    echo "File threads.txt does not exist."
 fi

@@ -105,6 +105,14 @@ To use this web scrapper, you need a `credentials.json` file for authenticating 
 
 15. Then run the threadcopy.sh to trasnfer data to it's place where it could be ingested.
 
+16. If you are facing an error of email scrapping failed, be sure to install google-api-python-client lib by doing:
+```sh
+pip install --user google-api-python-client
+```
+or just this if you are in venv, which you should be for your safety.
+```sh'
+pip install google-api-python-client
+```
 - And WOHOO you are done and set uped.
 
 
