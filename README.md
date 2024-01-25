@@ -33,6 +33,13 @@ year = {2023}
 - Can talk in normal LLM mode + Query mode + Search on the Docs. (this is the feature of the original repo)
 
 ## How to use it?
+- Whenever I say that you need to run the script, I am assuming you know that to run a script you would do:
+```sh
+chmod u+x script.sh
+#then 
+./script.sh
+```
+
   ### First time Setup:
   ```sh
   git clone https://github.com/MostlyKIGuess/mAI-Mail.git && cd mAI-Mail && \
@@ -94,10 +101,20 @@ To use this web scrapper, you need a `credentials.json` file for authenticating 
 
 13. Move the `credentials.json` file to the ``./scrapper`` directory of this project.
 
+14. Now you need to run the python file pythongmail.py, make sure to do it from the parent directory and not the same directory.And you will get your scrapped data on a file name threads.txt.
+
+15. Then run the threadcopy.sh to trasnfer data to it's place where it could be ingested.
+
 - And WOHOO you are done and set uped.
 
+
+## Final.sh
+- This is the script to do everything at the same time, if it's not working for you because of TMux issue, just do the each step manually then you can move to the second step again and then you just have to do the poetry again.
  ## TMux 
+ 
  - You need TMux to run the `final.sh` script which runs every script I have mentioned above that is if you want it to directly run by just one click. :)
+
+ - This script basically scrapped your data first, puts it the data folder, then ingests the data and then brews the server and then opens the server for you.
  
  - If you are having trouble running this , run the scripts alone to figure out what's wrong, feel very free to create issue I will reply as soon as possible. Also this might be useful :
  https://tmuxcheatsheet.com/
