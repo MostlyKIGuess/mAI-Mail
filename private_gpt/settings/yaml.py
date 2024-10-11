@@ -5,8 +5,7 @@ from typing import Any, TextIO
 
 from yaml import SafeLoader
 
-_env_replace_matcher = re.compile(r"\$\{(\w|_)+:?.*}")
-
+_env_replace_matcher = re.compile(r"\$\{\w+:?.*}")
 
 @typing.no_type_check  # pyaml does not have good hints, everything is Any
 def load_yaml_with_envvars(
