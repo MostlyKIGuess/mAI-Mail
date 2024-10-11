@@ -217,7 +217,7 @@ class PrivateGptUi:
         print("Button clicked")
         self._chat("summarise all the mails", [[[]]], "Query Docs")
         print("done")
-    def button_fn():
+    def _button_fn():
         return "Summarise all the mails"
 
 
